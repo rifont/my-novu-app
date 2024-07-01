@@ -15,3 +15,4 @@ jobs:
         with:
           secret-key: ${{ secrets.NOVU_SECRET_KEY }}
           bridge-url: https://93ae7363-6ff8-4096-a52d-2088a10e0b7f.ntfr.dev/api/novu
+          api-url: https://dev.api.novu.co
